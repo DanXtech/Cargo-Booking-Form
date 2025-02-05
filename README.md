@@ -44,60 +44,17 @@
 </ul>
 
 
-Navigate to the project folder:
+<p>Navigate to the project folder: cd cargo-booking-form in your terminal</p>
 
-cd cargo-booking-form
+<h2>Install dependencies:</h2>
 
-Install dependencies:
+<p>
+  npm install or yarn install
+</p>
 
-npm install
 
-or
 
-yarn install
+<p>Running the Project Locally To start the development server, run: npm start or yarn start This will launch the application at http://localhost:5173/.
+</p>
 
-Running the Project Locally
 
-To start the development server, run:
-
-npm start
-
-or
-
-yarn start
-
-This will launch the application at http://localhost:5173/.
-
-Project Structure
-
-├── src
-│ ├── components
-│ │ ├── ShipmentDetails.tsx
-│ │ ├── PickupDetails.tsx
-│ │ ├── DeliveryDetails.tsx
-│ │ ├── ContactInformation.tsx
-│ │ ├── CargoBookingForm.tsx
-│ ├── App.tsx
-│ ├── index.tsx
-├── public
-├── package.json
-├── tsconfig.json
-└── README.md
-
-Deployment
-
-To build the project for production, run:
-
-npm run build
-
-or
-
-yarn build
-
-Contributing
-
-Feel free to fork the project and create a pull request with improvements or bug fixes.
-
-License
-
-This project is licensed under the MIT License.
