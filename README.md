@@ -37,9 +37,12 @@
 
 <h2>Installation</h2>
 
-Clone the repository:
+<ul>
+  <h3>Clone the repository:</h3>
+  <h5>git clone https://github.com/DanXtech/Cargo-Booking-Form
+</h5>
+</ul>
 
-git clone https://github.com/DanXtech/Cargo-Booking-Form
 
 Navigate to the project folder:
 
