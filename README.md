@@ -1,28 +1,45 @@
-Cargo Booking Form
+<h1>Cargo Booking Form</h1>
 
-This is a React-based Cargo Booking Form that allows users to input shipment, pickup, delivery, and contact details. The form ensures a smooth user experience with validation and structured input fields.
+<p>
+  This is a React-based Cargo Booking Form that allows users to input shipment, pickup, delivery, and contact details. The form ensures a smooth user experience with validation and structured input fields.
+</p>
 
-Features
+<h2>Features</h2>
 
-Modular form sections: Shipment Details, Pickup Details, Delivery Details, and Contact Information
+<ul>
+  <li>
+    Modular form sections: Shipment Details, Pickup Details, Delivery Details, and Contact Information
+  </li>
+  <li>
+    Responsive design for better user experience
+  </li>
+  <li>
+    State management for handling form inputs
+  </li>
+</ul>
+<h2>
+  Prerequisites
+</h2>
+<p>
+  Ensure you have the following installed:
+</p>
 
-Responsive design for better user experience
+<ul>
+  <li>
+    Node.js (v16 or later)
+  </li>
+  <li>
+    npm (v8 or later) or yarn
+  </li>
+</ul>
 
-State management for handling form inputs
 
-Prerequisites
 
-Ensure you have the following installed:
-
-Node.js (v16 or later)
-
-npm (v8 or later) or yarn
-
-Installation
+<h2>Installation</h2>
 
 Clone the repository:
 
-git clone https://github.com/your-repo/cargo-booking-form.git
+git clone https://github.com/DanXtech/Cargo-Booking-Form
 
 Navigate to the project folder:
 
